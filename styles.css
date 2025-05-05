@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+
+#main{
+	background:#e8e8e8;
+	padding:10px;
+	margin:auto;
+}
+.test{
+	background:#fff;
+	padding:15px;
+	border:1px solid #ccc; 
+	margin-bottom:10px;
+}
+.auther{
+	text-align:right;
+	font-style:italic;
+}
